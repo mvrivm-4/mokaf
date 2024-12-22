@@ -1,0 +1,27 @@
+.parent {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.334), rgba(0, 0, 0, 0.356)), url("pexels-scottwebb-430208.jpg");
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+}
+
+* {
+    overflow-x: hidden;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hi {
+    margin-top: 40px;
+    color: black;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img1 {
+    width: 50px;
+    height: 50px;
+}
